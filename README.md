@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max, Senior Software Engineer @ [LinkedIn](https://www.linkedin.com/)
+- 👋 Hi, I’m Max, iOS Software Engineer @ [LinkedIn](https://www.linkedin.com/)
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/)
 - 💞️ I’m looking to collaborate on open source projects
